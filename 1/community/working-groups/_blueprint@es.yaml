@@ -1,0 +1,7 @@
+---
+"$title@": Grupos de trabajo
+"$view": "/views/detail/working-group-detail.j2"
+"$path": "/community/working-groups/{base}.html"
+"$localization":
+  path: "/{locale}/community/working-groups/{base}.html"
+"$order": 1
